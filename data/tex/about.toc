@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Introdu\c {c}\~ao}{1}
+\contentsline {section}{\numberline {2}Descri\c {c}\~ao de programa}{2}
+\contentsline {subsection}{\numberline {2.1}Funcionamento}{2}
+\contentsline {subsection}{\numberline {2.2}O que fazer?}{3}
+\contentsline {section}{\numberline {3}Java}{5}
+\contentsline {subsection}{\numberline {3.1}Movimentar objetos}{5}
+\contentsline {section}{\numberline {4}Paper and fonts}{5}
+\contentsline {subsection}{\numberline {4.1}Measures, which are used for fonts, pages and paragraphs}{5}
+\contentsline {section}{\numberline {5}Geometry}{6}
+\contentsline {subsection}{\numberline {5.1}Rectangle}{6}
+\contentsline {subsection}{\numberline {5.2}Ellipse}{7}
+\contentsline {subsection}{\numberline {5.3}Rhombus}{9}
+\contentsline {subsection}{\numberline {5.4}Segment}{10}
+\contentsline {subsection}{\numberline {5.5}Segment}{11}
+\contentsline {section}{\numberline {6}Java}{11}
+\contentsline {subsection}{\numberline {6.1}Insets}{11}
+\contentsline {subsection}{\numberline {6.2}Arrow}{12}
+\contentsline {subsubsection}{\numberline {6.2.1}Types of connection}{12}
